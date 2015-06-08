@@ -4,4 +4,4 @@ sada
 
 branch
  * master
- * hoge
+ * hoge -
